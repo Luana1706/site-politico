@@ -1,0 +1,92 @@
+* {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: "Arsenal", sans-serif;
+}
+
+.menu {
+    height: 100px;
+    background-color: #112244;
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    padding-right: 25%;
+    color: #ffffff;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 1.2vw;
+}
+
+li :hover {
+    color: #FF7B00;
+    border-bottom: 3px solid #FF7B00;
+    padding-bottom: 25px;
+}
+
+.menu img {
+    height: 90%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 25px;
+}
+
+#atual {
+    color: #FF7B00;
+}
+
+.news {
+    width: 40%;
+
+}
+
+.news img {
+    width: 80%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.news h2 {
+    width: 80%;
+    margin-left: 5%;
+    text-decoration: none;
+}
+
+.news a {
+    text-decoration: none;
+    color: black;
+}
+
+.news figcaption {
+
+    font-size: 14px;
+    color: rgb(156, 8, 8);
+    margin-top: 2px;
+    font-style: italic;
+    text-align: center;
+}
+
+.news {
+    width: 50%;
+}
+
+.news2 img {
+    width: 40%;
+    display: block
+    
+
+
+
+}
